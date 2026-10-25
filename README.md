@@ -1,4 +1,4 @@
-# Stra-nicy-kosmosu---projekt-zespo-owy---showcase
+# Straznik-kosmosu--team-project--showcase
 Showcase repository for "Strażnicy kosmosu" team developed game
 
 Game title - Strażnik Kosmosu (eng. The Space Guardian)
